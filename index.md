@@ -44,7 +44,7 @@
 					<div class="col-md-6 col-md-offset-3">
 						
 						<div class="align-center">
-							<i class="fa fa-flask fa-5x mar-bot20"></i>
+							<img scr="img/cb.jpeg"alt="" />
 							<h2 class="slogan">CyberBuzz XIV</h2>
 							<p>
 							The Buzz is on.
