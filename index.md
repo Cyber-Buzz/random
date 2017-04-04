@@ -443,6 +443,18 @@
 									</div>
                                 </article>
 								
+								<article class="col-md-4 isotopeItem webdesign">
+									<div class="portfolio-item">
+										<img src="img/portfolio/img1.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">PreziPitate</a></h5>
+												
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
                                 </div>
                                         
 							</div>							
