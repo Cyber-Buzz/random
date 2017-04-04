@@ -22,7 +22,6 @@
 			 <div class="container">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-						<span class="fa fa-bars color-white"></span>
 					</button>
 					<h1><a href="index.html">Home
 					</a></h1>
