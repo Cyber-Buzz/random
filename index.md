@@ -1,5 +1,5 @@
 <html>
-    <head>
+<head>
 		<!-- BASICS -->
         <meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -19,9 +19,9 @@
             Author: BootstrapMade
             Author URL: https://bootstrapmade.com
         ======================================================= -->
-    </head>
+</head>
 	 
-    <body>
+<body>
 		<section id="header" class="appear"></section>
 		<div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(0,0,0,0.3);" data-300="line-height:60px; height:60px; background-color:rgba(0,0,0,1);">
 			 <div class="container">
@@ -445,5 +445,5 @@
     <script src="js/main.js"></script>
     <script src="contactform/contactform.js"></script>
     
-	</body>
+</body>
 </html>
