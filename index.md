@@ -29,7 +29,7 @@
 				</div>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
-						<li class="active"><a href="index.html">Home</a></li>
+						<li><a href="index.html">Home</a></li>
 						<li><a href="#section-about">The Team</a></li>
 						<li><a href="#section-works">Events</a></li>
 						<li><a href="#section-contact">Details</a></li>
