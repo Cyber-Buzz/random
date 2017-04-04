@@ -42,9 +42,8 @@
 			<div class="container"> 
 				<div class="row mar-bot40">
 					<div class="col-md-6 col-md-offset-3">
-						
 						<div class="align-center">
-							<img scr="img/cb.jpeg"alt="" />
+							<figure class="member-photo"><img src="img/cb.jpg" alt="" /></figure>
 							<h2 class="slogan">CyberBuzz XIV</h2>
 							<p>
 							The Buzz is on.
