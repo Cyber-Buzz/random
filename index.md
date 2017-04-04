@@ -24,7 +24,7 @@
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 						<span class="fa fa-bars color-white"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">			CyberBuzz XIV
+					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;"><img src="img/CYBER BUZZ.png" alt="" />
 					</a></h1>
 				</div>
 				<div class="navbar-collapse collapse">
@@ -270,12 +270,11 @@
 
                                 <article class="col-md-4 isotopeItem photography">
 									<div class="portfolio-item">
-										<img src="img/buzzer.jpg" alt="" />
+										<img src="img/portfolio/img3.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">BUZZ-er</a></h5>
-												<p> This is quiz pls work.
-												</p>					
+												
 											 </div>										   
 										 </div>
 									</div>
