@@ -133,7 +133,7 @@
 								<div class="team-detail">
 									<h4>Devansh Arora</h4>
 									<h6>Cyber Captain</h6>
-									<span>Cyber Captain/Rev-Amp Head</span>
+									<span>Rev-Amp</span>
 								</div>
 							</div>
 						</div>
@@ -142,7 +142,8 @@
 								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
 								<div class="team-detail">
 									<h4>Piyush Kumar</h4>
-									<span>Deputy Cyber Captain/Logic Gate Head</span>
+									<h6>Deputy Cyber Captain</h6>
+									<span>Logic Gate</span>
 								</div>
 							</div>
 						</div>
