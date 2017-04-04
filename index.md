@@ -296,10 +296,10 @@
 
                                 <article class="col-md-4 isotopeItem photography">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img2.jpg" alt="" />
+										<img src="img/portfolio/BLITZKRIEG.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
-												<h5><a href="#">Group Discussion</a></h5>
+												<h5><a href="#">Blitzkrieg</a></h5>
 											
 											 </div>										   
 										 </div>
@@ -309,7 +309,7 @@
 
                                 <article class="col-md-4 isotopeItem photography">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img3.jpg" alt="" />
+										<img src="img/buzzer.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">BUZZ-er</a></h5>
@@ -321,19 +321,7 @@
 
                                 <article class="col-md-4 isotopeItem print">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img4.jpg" alt="" />
-										 <div class="portfolio-desc align-center">
-											<div class="folio-info">
-												<h5><a href="#">X-Word</a></h5>
-												
-											 </div>										   
-										 </div>
-									</div>
-                                </article>
-
-                                <article class="col-md-4 isotopeItem photography">
-									<div class="portfolio-item">
-										<img src="img/portfolio/img5.jpg" alt="" />
+										<img src="img/portfolio/img1.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">C1ue3</a></h5>
@@ -343,12 +331,24 @@
 									</div>
                                 </article>
 
-                                <article class="col-md-4 isotopeItem webdesign">
+                                <article class="col-md-4 isotopeItem photography">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img6.jpg" alt="" />
+										<img src="img/portfolio/Chalchitra.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
-												<h5><a href="#">Rev-Amp</a></h5>
+												<h5><a href="#">Chalchitra</a></h5>
+												
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+
+                                <article class="col-md-4 isotopeItem webdesign">
+									<div class="portfolio-item">
+										<img src="img/portfolio/CLIC(K)HE.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Clic(k)he</a></h5>
 												
 											 </div>										   
 										 </div>
@@ -357,10 +357,10 @@
 
                                 <article class="col-md-4 isotopeItem print">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img7.jpg" alt="" />
+										<img src="img/portfolio/img1.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
-												<h5><a href="#">Pla(y)gue</a></h5>
+												<h5><a href="#">Hardware</a></h5>
 												
 											 </div>										   
 										 </div>
@@ -381,10 +381,10 @@
 
                                 <article class="col-md-4 isotopeItem print">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img9.jpg" alt="" />
+										<img src="img/portfolio/img1.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
-												<h5><a href="#">clic(k)he</a></h5>
+												<h5><a href="#">Pla(y)gue</a></h5>
 												
 											 </div>										   
 										 </div>
@@ -396,7 +396,7 @@
 										<img src="img/portfolio/img1.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
-												<h5><a href="#">Chalchitra</a></h5>
+												<h5><a href="#">Rev-Amp</a></h5>
 												<p>Logic Gate Test
 												</p>
 											 </div>										   
@@ -406,10 +406,10 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img2.jpg" alt="" />
+										<img src="img/portfolio/img1.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
-												<h5><a href="#">PreziPitate</a></h5>
+												<h5><a href="#">Trial by Combat</a></h5>
 												<p>Logic Gate Test
 												</p>
 											 </div>										   
@@ -419,23 +419,23 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img3.jpg" alt="" />
+										<img src="img/portfolio/X-WORD.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">X-Word</a></h5>
+												<p>Logic Gate Test
+												</p>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem webdesign">
+									<div class="portfolio-item">
+										<img src="img/portfolio/img1.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Lil Evolutioners</a></h5>
-												<p>Logic Gate Test
-												</p>
-											 </div>										   
-										 </div>
-									</div>
-                                </article>
-								
-								<article class="col-md-4 isotopeItem webdesign">
-									<div class="portfolio-item">
-										<img src="img/portfolio/img4.jpg" alt="" />
-										 <div class="portfolio-desc align-center">
-											<div class="folio-info">
-												<h5><a href="#">Hardware</a></h5>
 												<p>Logic Gate Test
 												</p>
 											 </div>										   
