@@ -187,8 +187,8 @@
 				<div class="row mar-bot40">
 					<div class="col-md-offset-3 col-md-6">
 						<div class="section-header">
-							<h2 class="section-heading animated" data-animation="bounceInUp">Portfolio</h2>
-							<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam.</p>
+							<h2 class="section-heading animated" data-animation="bounceInUp">Events</h2>
+							<p>13 tech packed events!</p>
 						</div>
 					</div>
 				</div>
@@ -312,6 +312,59 @@
 										 </div>
 									</div>
                                 </article>
+								
+								<article class="col-md-4 isotopeItem webdesign">
+									<div class="portfolio-item">
+										<img src="img/portfolio/img10.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Chalchitra</a></h5>
+												<p>Logic Gate Test
+												</p>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem webdesign">
+									<div class="portfolio-item">
+										<img src="img/portfolio/img11.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">PreziPitate</a></h5>
+												<p>Logic Gate Test
+												</p>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem webdesign">
+									<div class="portfolio-item">
+										<img src="img/portfolio/img12.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Lil Evolutioners</a></h5>
+												<p>Logic Gate Test
+												</p>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
+								<article class="col-md-4 isotopeItem webdesign">
+									<div class="portfolio-item">
+										<img src="img/portfolio/img13.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Hardware</a></h5>
+												<p>Logic Gate Test
+												</p>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+								
                                 </div>
                                         
 							</div>							
@@ -346,7 +399,7 @@
 			<div class="row animated opacity mar-bot20" data-andown="fadeIn" data-animation="animation">
 				<div class="col-sm-12 align-center">
                     <ul class="social-network social-circle">
-                        <li><a href="#" class="icoFacebook" title="Facebook">www.google.com</a></li>
+                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i>www.google.com</a></li>
                     </ul>				
 				</div>
 			</div>
