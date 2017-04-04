@@ -146,12 +146,34 @@
 								</div>
 							</div>
 						</div>
+					</div>
+				
+
+					<div class="row align-center mar-bot40">
+						<div class="col-md-3">
+							<div class="team-member">
+								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<div class="team-detail">
+									<h4>Saksham Manaktala</h4>
+									<span>BUZZ-er</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="team-member">
+								<figure class="member-photo"><img src="img/team/member2.jpg" alt="" /></figure>
+								<div class="team-detail">
+									<h4>Ankur Banga</h4>
+									<span>Logic Gate</span>
+								</div>
+							</div>
+						</div>
 						<div class="col-md-3">
 							<div class="team-member">
 								<figure class="member-photo"><img src="img/team/member3.jpg" alt="" /></figure>
 								<div class="team-detail">
-								<h4>Ankur Banga</h4>
-									<span>Logic Gate Head</span>
+								<h4>Anne Maria Sunil</h4>
+									<span>Opus</span>
 								</div>
 							</div>
 						</div>
