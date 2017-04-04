@@ -24,7 +24,7 @@
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 						<span class="fa fa-bars color-white"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">			Amoeba
+					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">			CyberBuzz XIV
 					</a></h1>
 				</div>
 				<div class="navbar-collapse collapse">
@@ -161,6 +161,45 @@
 								<div class="team-detail">
 								<h4>Mehul Kumar</h4>
 									<span>Group Discussion Head</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="row align-center mar-bot40">
+						<div class="col-md-3">
+							<div class="team-member">
+								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<div class="team-detail">
+									<h4>Pernicka Prabhakar</h4>
+									<span>C1ue3 Head</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="team-member">
+								<figure class="member-photo"><img src="img/team/member2.jpg" alt="" /></figure>
+								<div class="team-detail">
+									<h4>Chirag Vijay</h4>
+									<span>Pla(y)gue Head</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="team-member">
+								<figure class="member-photo"><img src="img/team/member3.jpg" alt="" /></figure>
+								<div class="team-detail">
+								<h4>Rohan Yadav</h4>
+									<span>Group Discussion Head</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="team-member">
+								<figure class="member-photo"><img src="img/team/member4.jpg" alt="" /></figure>
+								<div class="team-detail">
+								<h4>Piyush Prasad</h4>
+									<span>Blitzkrieg Head</span>
 								</div>
 							</div>
 						</div>
@@ -315,7 +354,7 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img10.jpg" alt="" />
+										<img src="img/portfolio/img1.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Chalchitra</a></h5>
@@ -328,7 +367,7 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img11.jpg" alt="" />
+										<img src="img/portfolio/img2.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">PreziPitate</a></h5>
@@ -341,7 +380,7 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img12.jpg" alt="" />
+										<img src="img/portfolio/img3.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Lil Evolutioners</a></h5>
@@ -354,7 +393,7 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img13.jpg" alt="" />
+										<img src="img/portfolio/img4.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Hardware</a></h5>
@@ -388,7 +427,7 @@
 					<div class="col-md-offset-3 col-md-6">
 						<div class="section-header">
 							<h2 class="section-heading animated" data-animation="bounceInUp">Contact us</h2>
-							<p>Email us at amitycyberbuzz@gmail.com </p>
+							<p>Email us at : amitycyberbuzz@gmail.com </p>
 						</div>
 					</div>
 				</div>							
@@ -399,7 +438,7 @@
 			<div class="row animated opacity mar-bot20" data-andown="fadeIn" data-animation="animation">
 				<div class="col-sm-12 align-center">
                     <ul class="social-network social-circle">
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i>www.google.com</a></li>
+                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                     </ul>				
 				</div>
 			</div>
