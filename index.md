@@ -209,7 +209,8 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Logic Gate</a></h5>
-												<a href="img/portfolio/img1.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+												<p>Logic Gate Test
+												</p>
 											 </div>										   
 										 </div>
 									</div>
@@ -221,7 +222,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Group Discussion</a></h5>
-												<a href="img/portfolio/img2.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+											
 											 </div>										   
 										 </div>
 									</div>
@@ -234,7 +235,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">BUZZ-er</a></h5>
-												<a href="img/portfolio/img3.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+												
 											 </div>										   
 										 </div>
 									</div>
@@ -246,7 +247,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">X-Word</a></h5>
-												<a href="img/portfolio/img4.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+												
 											 </div>										   
 										 </div>
 									</div>
@@ -258,7 +259,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">C1ue3</a></h5>
-												<a href="img/portfolio/img5.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+												
 											 </div>										   
 										 </div>
 									</div>
@@ -270,7 +271,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Rev-Amp</a></h5>
-												<a href="img/portfolio/img6.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+												
 											 </div>										   
 										 </div>
 									</div>
@@ -282,7 +283,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Pla(y)gue</a></h5>
-												<a href="img/portfolio/img7.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+												
 											 </div>										   
 										 </div>
 									</div>
@@ -294,7 +295,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Opus</a></h5>
-												<a href="img/portfolio/img8.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+												
 											 </div>										   
 										 </div>
 									</div>
@@ -306,19 +307,17 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">clic(k)he</a></h5>
-												<a href="img/portfolio/img9.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+												
 											 </div>										   
 										 </div>
 									</div>
                                 </article>
                                 </div>
                                         
-							</div>
-                                     
-
-							</div>
+							</div>							
                         </div>
 				
+				</div>
 			</div>
 		</section>
 		<section id="parallax2" class="section parallax" data-stellar-background-ratio="0.5">	
@@ -336,7 +335,7 @@
 					<div class="col-md-offset-3 col-md-6">
 						<div class="section-header">
 							<h2 class="section-heading animated" data-animation="bounceInUp">Contact us</h2>
-							<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam.</p>
+							<p>Email us at amitycyberbuzz@gmail.com </p>
 						</div>
 					</div>
 				</div>							
@@ -347,7 +346,7 @@
 			<div class="row animated opacity mar-bot20" data-andown="fadeIn" data-animation="animation">
 				<div class="col-sm-12 align-center">
                     <ul class="social-network social-circle">
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#" class="icoFacebook" title="Facebook">www.google.com</a></li>
                     </ul>				
 				</div>
 			</div>
