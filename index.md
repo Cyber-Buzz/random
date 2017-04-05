@@ -282,19 +282,7 @@
                           <div class="col-md-12">
                             <div class="row">
                               <div class="portfolio-items isotopeWrapper clearfix" id="3">
-							  
-                                <article class="col-md-4 isotopeItem webdesign">
-									<div class="portfolio-item">
-										<img src="img/lg.jpg" alt="" />
-										 <div class="portfolio-desc align-center">
-											<div class="folio-info">
-												<h5><a href="#">Logic Gate</a></h5>
-												<p>Programming Event. Written prelims which test the logical knowledge followed by a long coding session involving various questions.
-												</p>
-											 </div>										   
-										 </div>
-									</div>
-                                </article>
+							
 
                                 <article class="col-md-4 isotopeItem photography">
 									<div class="portfolio-item">
@@ -379,7 +367,20 @@
 										 </div>
 									</div>
                                 </article>
-
+				
+				<article class="col-md-4 isotopeItem webdesign">
+									<div class="portfolio-item">
+										<img src="img/lg.jpg" alt="" />
+										 <div class="portfolio-desc align-center">
+											<div class="folio-info">
+												<h5><a href="#">Logic Gate</a></h5>
+												<p>Programming Event. Written prelims which test the logical knowledge followed by a long coding session involving various questions.
+												</p>
+											 </div>										   
+										 </div>
+									</div>
+                                </article>
+				
                                 <article class="col-md-4 isotopeItem photography">
 									<div class="portfolio-item">
 										<img src="img/OPUS.jpg" alt="" />
