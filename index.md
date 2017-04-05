@@ -180,7 +180,7 @@
 						</div>
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 									<h4>Ankur Banga</h4>
 									<span>Logic Gate</span>
