@@ -314,7 +314,7 @@
 
                                 <article class="col-md-4 isotopeItem photography">
 									<div class="portfolio-item">
-										<img src="img/hard.jpg" alt="" />
+										<img src="img/buzz.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">BUZZ-er</a></h5>
@@ -347,7 +347,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Chalchitra</a></h5>
-												<p> Video Making. 
+												<p> Video Making. </p>
 												
 											 </div>										   
 										 </div>
@@ -395,7 +395,7 @@
 
                                 <article class="col-md-4 isotopeItem print">
 									<div class="portfolio-item">
-										<img src="img/hard.jpg" alt="" />
+										<img src="img/play.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Pla(y)gue</a></h5>
