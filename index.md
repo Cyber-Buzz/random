@@ -395,7 +395,7 @@
 
                                 <article class="col-md-4 isotopeItem print">
 									<div class="portfolio-item">
-										<img src="img/play.jpg" alt="" />
+										<img src="img/pl.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Pla(y)gue</a></h5>
