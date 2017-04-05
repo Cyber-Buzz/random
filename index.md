@@ -397,7 +397,7 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img1.jpg" alt="" />
+										<img src="img/REV.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Rev-Amp</a></h5>
@@ -410,7 +410,7 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img1.jpg" alt="" />
+										<img src="img/trial.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Trial by Combat</a></h5>
@@ -436,7 +436,7 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img1.jpg" alt="" />
+										<img src="img/lil.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Lil Evolutioners</a></h5>
