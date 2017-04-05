@@ -285,7 +285,7 @@
 							  
                                 <article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/hard.jpg" alt="" />
+										<img src="img/lg.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Logic Gate</a></h5>
@@ -411,7 +411,7 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/trial.jpg" alt="" />
+										<img src="img/Trial.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Trial by Combat</a></h5>
@@ -424,7 +424,7 @@
 								
 								<article class="col-md-4 isotopeItem webdesign">
 									<div class="portfolio-item">
-										<img src="img/word.jpg" alt="" />
+										<img src="img/Word.jpg" alt="" />
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">X-Word</a></h5>
