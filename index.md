@@ -39,16 +39,21 @@
 		</div>
 
 		<section class="featured">
-			<div class="container"> 
-				
-					<div class="align-center">
-							<img src="http://hdwallpaperbackgrounds.net/wp-content/uploads/2017/03/tumblr-wallpaper-20.jpg">
+			<div class="row mar-bot40">
+ -					<div class="col-md-6 col-md-offset-3">
+ -						<div class="align-center">
+ -							<figure class="member-photo"><img src="img/cb.jpg" alt="" /></figure>
+ -							<h2 class="slogan">CyberBuzz XIV</h2>
+ -							<p>
+ -							The Buzz is on.
+ -							May 1, 2016				
+ -							</p>
 							
 						
 								
 						</div>
 					</div>
-				</div>
+				
 			</div>
 		</section>
 		
