@@ -289,7 +289,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Logic Gate</a></h5>
-												<p><font size="6">Programming Event. Written prelims which test the logical knowledge followed by a long coding session involving various questions. </font>
+												<p>Programming Event. Written prelims which test the logical knowledge followed by a long coding session involving various questions.
 												</p>
 											 </div>										   
 										 </div>
@@ -302,7 +302,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Blitzkrieg</a></h5>
-												<p><font size="6">Develop a game that is visually stunning which gives a full-fat gaming experience and has a lasting impact on the player. Showcase your creativity.</font>
+												<p>Develop a game that is visually stunning which gives a full-fat gaming experience and has a lasting impact on the player. Showcase your creativity.
 												</p>
 
 											
