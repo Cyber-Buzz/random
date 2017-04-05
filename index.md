@@ -131,7 +131,7 @@
 					<div class="row align-center mar-bot40">
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 									<h4>Devansh Arora</h4>
 									<h6>Cyber Captain</h6>
@@ -141,7 +141,7 @@
 						</div>
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 									<h4>Piyush Kumar</h4>
 									<h6>Deputy Cyber Captain</h6>
@@ -151,7 +151,7 @@
 						</div>
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 									<h4>Kshitijaa Jaglan</h4>
 									<span>Opus</span>
@@ -160,7 +160,7 @@
 						</div>
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 									<h4>Shagun Agarwal</h4>
 									<span>Hardware</span>
@@ -171,7 +171,7 @@
 					<div class="row align-center mar-bot40">
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 									<h4>Saksham Manaktala</h4>
 									<span>BUZZ-er</span>
@@ -189,7 +189,7 @@
 						</div>
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 								<h4>Anne Maria Sunil</h4>
 									<span>Opus</span>
@@ -198,7 +198,7 @@
 						</div>
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 								<h4>Mehul Kumar</h4>
 									<span>Group Discussion Head</span>
@@ -210,7 +210,7 @@
 					<div class="row align-center mar-bot40">
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 									<h4>Pernicka Prabhakar</h4>
 									<span>C1ue3 Head</span>
@@ -219,7 +219,7 @@
 						</div>
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 									<h4>Chirag Vijay</h4>
 									<span>Pla(y)gue Head</span>
@@ -228,7 +228,7 @@
 						</div>
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 								<h4>Rohan Yadav</h4>
 									<span>Group Discussion Head</span>
@@ -237,7 +237,7 @@
 						</div>
 						<div class="col-md-3">
 							<div class="team-member">
-								<figure class="member-photo"><img src="img/team/member1.jpg" alt="" /></figure>
+								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
 								<h4>Piyush Prasad</h4>
 									<span>Blitzkrieg Head</span>
