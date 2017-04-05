@@ -302,7 +302,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Blitzkrieg</a></h5>
-												<p>Develop a game that is visually stunning which gives a full-fat gaming experience and has a lasting impact on the player. Showcase your creativity.
+												<p>Game Development. Develop a game that is visually stunning which gives a full-fat gaming experience and has a lasting impact on the player. Showcase your creativity.
 												</p>
 
 											
@@ -318,6 +318,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">BUZZ-er</a></h5>
+												<p>Open Quiz. Prelims followed by 6 teams in the finals. </p>
 												
 											 </div>										   
 										 </div>
@@ -330,6 +331,10 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">C1ue3</a></h5>
+												<p> Surprise Event. Basics and logic is all we need to survive in life. Or in this event. Try us, we may surprise you.</p>
+
+											
+												
 												
 											 </div>										   
 										 </div>
@@ -342,6 +347,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Chalchitra</a></h5>
+												<p> Video Making. 
 												
 											 </div>										   
 										 </div>
@@ -354,6 +360,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Clic(k)he</a></h5>
+												<p>Photography</p>
 												
 											 </div>										   
 										 </div>
@@ -366,6 +373,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Hardware</a></h5>
+												<p>Hardware.</p>
 												
 											 </div>										   
 										 </div>
@@ -378,6 +386,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Opus</a></h5>
+												<p> Web Devlopment.</p>
 												
 											 </div>										   
 										 </div>
@@ -390,6 +399,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Pla(y)gue</a></h5>
+												<p>Gaming</p>
 												
 											 </div>										   
 										 </div>
@@ -402,7 +412,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Rev-Amp</a></h5>
-												<p>Logic Gate Test
+												<p>Audio Mixing
 												</p>
 											 </div>										   
 										 </div>
@@ -415,7 +425,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Trial by Combat</a></h5>
-												<p>Logic Gate Test
+												<p>Group Discussion.
 												</p>
 											 </div>										   
 										 </div>
@@ -428,7 +438,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">X-Word</a></h5>
-												<p>Logic Gate Test
+												<p>Crossword
 												</p>
 											 </div>										   
 										 </div>
@@ -441,7 +451,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Lil Evolutioners</a></h5>
-												<p>Logic Gate Test
+												<p>Story Book Weaver.
 												</p>
 											 </div>										   
 										 </div>
@@ -454,6 +464,7 @@
 										 <div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">PreziPitate</a></h5>
+												<p>Junior Presentation</p>
 												
 											 </div>										   
 										 </div>
