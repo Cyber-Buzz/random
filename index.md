@@ -153,8 +153,9 @@
 							<div class="team-member">
 								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
-									<h4>Kshitijaa Jaglan</h4>
-									<span>Opus</span>
+									<h4>Rohan Yadav</h4>
+									<h6>President</h6>
+									<span>Trial By Combat</span>
 								</div>
 							</div>
 						</div>
@@ -162,8 +163,8 @@
 							<div class="team-member">
 								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
-									<h4>Shagun Agarwal</h4>
-									<span>Hardware</span>
+									<h4>Mehul Kumar</h4>
+									<span>Hoi</span>
 								</div>
 							</div>
 						</div>
@@ -191,7 +192,7 @@
 							<div class="team-member">
 								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
-								<h4>Anne Maria Sunil</h4>
+								<h4>Piyush Prasad</h4>
 									<span>Opus</span>
 								</div>
 							</div>
