@@ -42,7 +42,7 @@
 			<div class="row mar-bot40">
  -					<div class="col-md-6 col-md-offset-3">
  -						<div class="align-center">
- -							<figure class="member-photo"><img src="img/cb.jpg" alt="" /></figure>
+ -							<img src="img/cb.jpg" alt=""  width='50' height='50'/>
  -							<h2 class="slogan">CyberBuzz XIV</h2>
  -							<p>
  -							The Buzz is on.
