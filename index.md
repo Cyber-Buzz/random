@@ -102,8 +102,7 @@
 							<div class="align-center">
         						<div class="testimonial pad-top40 pad-bot40 clearfix">
         							<h5>
-        								Test Quote 1
-        							</h5>
+Ye bik gayi hai gormint!								</h5>
         							<br/>
         							<span class="author">&mdash; Devansh Arora</span>
         						</div>
