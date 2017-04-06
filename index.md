@@ -212,7 +212,7 @@
 							<div class="team-member">
 								<figure class="member-photo"><img src="img/team/ankur.jpg" alt="" /></figure>
 								<div class="team-detail">
-									<h4>Pernicka Prabhakar</h4>
+									<h4>Parnika Prabhakar</h4>
 									<span>C1ue3 Head</span>
 								</div>
 							</div>
